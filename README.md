@@ -1,4 +1,4 @@
-### Simulación del transporte de madera con tres bitrenes
+
 
 # README – Simulación del transporte de madera con tres bitrenes
 
