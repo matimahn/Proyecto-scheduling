@@ -186,4 +186,11 @@ Los cuatro gráficos permiten complementar esta información y visualizar de mej
 
 De esta forma, el proyecto entrega una herramienta para analizar el funcionamiento del transporte de madera y evaluar cuál de las dos reglas presenta mejores resultados bajo las condiciones operacionales consideradas.
 
+## 11. Graficos
+<img width="1589" height="907" alt="image" src="https://github.com/user-attachments/assets/5a8fca0c-3a0b-47c3-9e6b-96f22cfe2272" />
+<img width="1289" height="590" alt="image" src="https://github.com/user-attachments/assets/ef9c1c67-404b-416b-85cb-5e68555bfcd6" />
+<img width="1290" height="590" alt="image" src="https://github.com/user-attachments/assets/058cf22c-c8f5-4437-9a5b-e84e35d30743" />
+<img width="1289" height="590" alt="image" src="https://github.com/user-attachments/assets/0ffcf176-a7f1-4377-9ded-ad506c1d8065" />
+
+
 
